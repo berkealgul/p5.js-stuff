@@ -2,4 +2,4 @@
 Projects I done using p5.js
 
 - **Maze-Generation** 
-<img src="/Maze-Generation/maze.jpg" alt="olcft" width="400">
+<img src="/Maze-Generation/maze.jpg" alt="olcft" width="600">
