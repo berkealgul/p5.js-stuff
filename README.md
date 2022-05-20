@@ -2,7 +2,7 @@
 Projects I done using p5.js
 
 - **Maze-Generation** 
-<img src="/Maze-Generation/maze.jpg" alt="olcft" width="450">
+<img src="/Maze-Generation/maze.jpg" alt="olcft" width="600">
 
 - **Langtons-ant** 
- <img src="/Langtons-ant/doc/ss.png" alt="olcft" width="300">
+ <img src="/Langtons-ant/doc/ss.png" alt="olcft" width="400">
