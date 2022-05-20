@@ -5,4 +5,4 @@ Projects I done using p5.js
 <img src="/Maze-Generation/maze.jpg" alt="olcft" width="600">
 
 - **Langtons-ant** 
- <img src="/Langtons-ant{doc/ss.jpg" alt="olcft" width="300">
+ <img src="/Langtons-ant{doc/ss.png" alt="olcft" width="300">
