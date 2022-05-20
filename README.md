@@ -5,4 +5,4 @@ Projects I done using p5.js
 <img src="/Maze-Generation/maze.jpg" alt="olcft" width="600">
 
 - **Langtons-ant** 
- ![Alt text](Langtons-ant/ss.png?raw=true "Title")
+ <img src="/Langtons-ant{doc/ss.jpg" alt="olcft" width="300">
